@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow - Smart Study Planner & Flutter Exam Hub",
+  "description": "Comprehensive study productivity app featuring weekly progress tracking, Pomodoro focus sprints, weekly timetable, real-time study rooms, AI tutor, and complete exportable Flutter source code with exam rubric evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
